@@ -1,5 +1,3 @@
-/* Place your CSS styles in this file */
-
 h1 {
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
@@ -65,4 +63,5 @@ ul{
 }
 .box li a:hover{
     color: #b9b9b9;
+
 }
